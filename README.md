@@ -278,3 +278,15 @@ IDM_Pro_Tool/
  
 ## 🤝 社区与支持
 - **LINUX DO 社区**: [https://linux.do](https://linux.do)
+
+---
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#angusdevgo/IDM_Pro_Tool&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=angusdevgo/IDM_Pro_Tool&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=angusdevgo/IDM_Pro_Tool&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=angusdevgo/IDM_Pro_Tool&type=Date" />
+ </picture>
+</a>
