@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://github.com/angusdevgo/IDM_Pro_Tool/stargazers"><img src="https://img.shields.io/github/stars/angusdevgo/IDM_Pro_Tool?style=for-the-badge&logo=github&color=blue" alt="GitHub Stars"></a>
   <a href="https://github.com/angusdevgo/IDM_Pro_Tool/releases"><img src="https://img.shields.io/github/v/release/angusdevgo/IDM_Pro_Tool?style=for-the-badge&logo=github&color=brightgreen" alt="Latest Release"></a>
-  <a href="https://github.com/angusdevgo/IDM_Pro_Tool/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License"></a>
+  <a href="https://github.com/angusdevgo/IDM_Pro_Tool/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge" alt="License"></a>
   <img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows" alt="Windows Platform">
   <img src="https://img.shields.io/badge/.NET%20Framework-4.x%20(Native)-purple?style=for-the-badge&logo=dotnet" alt=".NET Framework 4.x">
   <img src="https://img.shields.io/badge/Architecture-x64-orange?style=for-the-badge" alt="Architecture x64">
@@ -233,7 +233,7 @@ IDM_Pro_Tool/
 ├── build.bat               # 原生批处理快速构建脚本（自动完成编译与资源归档）
 ├── IDM_Pro_Tool.exe        # 编译生成的目标 x64 GUI 可执行程序
 ├── app_icon.png            # 运行时窗口读取图标
-├── LICENSE                 # MIT 开源许可证
+├── LICENSE                 # GPL-3.0 开源许可证
 └── README.md               # 详尽的项目说明文档
 ```
 
@@ -274,7 +274,30 @@ IDM_Pro_Tool/
 
 ## 📄 开源许可证
 
-本项目基于 [MIT License](LICENSE) 协议开源。欢迎提交 Issue 或 Pull Request 完善支持！
+本项目基于 **[GNU General Public License v3.0](LICENSE)**（GPL-3.0）协议开源。
+
+### 你可以自由地
+
+- ✅ **使用** —— 任何目的（含商业用途）
+- ✅ **研究** —— 阅读、学习、修改源码
+- ✅ **分发** —— 复制、再发布
+- ✅ **改进** —— 修改后发布自己的版本
+
+### 你需要遵守
+
+- 📌 **开源传染** —— 基于本项目修改/衍生的作品，**必须同样以 GPL-3.0 开源**并附完整源码
+- 📌 **保留声明** —— 必须保留原始版权声明与许可证文本
+- 📌 **标注修改** —— 修改过的文件需显著标明「已修改」及修改日期
+- 📌 **无附加限制** —— 不得对下游用户施加 GPL 之外的额外限制
+
+### 特别说明
+
+- ⚠️ **无担保** —— 本软件按「原样」提供，作者不承担任何担保责任
+- ⚠️ **仅供学习研究** —— 详见下方免责声明，请勿用于商业侵权用途
+
+完整条款请见 [LICENSE](LICENSE) 文件，或访问 <https://www.gnu.org/licenses/gpl-3.0.html>。
+
+欢迎提交 Issue 或 Pull Request 完善支持！
  
 ## 🤝 社区与支持
 - **LINUX DO 社区**: [https://linux.do](https://linux.do)
